@@ -1,4 +1,4 @@
-cat > README.md <<'EOF'
+
 # ICDFA-DFIR-AI-026
 ## AI-Assisted IP Evidence Identification and Model Evaluation
 
